@@ -1,3 +1,3 @@
 # form-web
 
-First commit: um formulário html simples. Implementação com o banco de dados ainda não concluída.
+First commit: um formulário html/css simples. Implementação com o banco de dados ainda não concluída.
