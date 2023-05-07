@@ -77,12 +77,33 @@
     justify-content: space-around;
 }
 
+#social_media button{
+    cursor: pointer;
+    border: none;
+    background: transparent;
+}
+
+#social_media input{
+    cursor: pointer;
+    border: none;
+    background: transparent;
+    outline: none;
+}
+
 #social_media img{
     width: 35px;
 }
 
 #social_media img:hover{
     transform: scale(1.2);
+}
+
+#social_media a {
+    text-decoration: none;
+}
+
+#social_media a:hover {
+    text-decoration: none;
 }
 
 #inputs{
